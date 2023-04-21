@@ -1,0 +1,14 @@
+body{
+	background: url('bg2.jpg');
+	background-size: cover;
+	background-position: center;
+}
+.container{
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	background: #aaaaaa70;
+	padding: 20px;
+	margin: 40px;
+	width: 50%;
+}

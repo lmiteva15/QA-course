@@ -1,4 +1,6 @@
 # QA course
-1) Postman Collaction
-2) Selenium IDE 
-3) HTML and CSS
+Documents for Testing Polling APP
+HTML project
+Postman Collaction
+Selenium IDE 
+SQL task
